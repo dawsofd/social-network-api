@@ -1,7 +1,7 @@
-const { User, Thought, Reaction } = require("../models");
+const { User, Thought, Reaction } = require("../../models");
 const mongoose = require("mongoose");
 
-const connection = require("../config/connection");
+const connection = require("../../config/connection");
 
 const users = [
     {
