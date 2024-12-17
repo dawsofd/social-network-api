@@ -43,7 +43,7 @@ The following animation shows the POST and DELETE routes for a user’s friend l
 ![POST, DELETE for user's friend list](./assets/images/18-nosql-homework-demo-04.gif)
 
 ## Walkthrough Video 
-https://drive.google.com/file/d/1Iu6cowPvmmucizXD-dx3X52gRT4ZmIQ3/view?usp=sharing
+https://drive.google.com/file/d/19YgtX0LAlYPuh9R8UyfHncwce-h7BKho/view?usp=sharing
 
 ## Technologies Used 
 
@@ -62,5 +62,5 @@ https://drive.google.com/file/d/1Iu6cowPvmmucizXD-dx3X52gRT4ZmIQ3/view?usp=shari
 ## Contact Me
 Have additional questions? Click the links below to reach me through Github or Email.
 
-![Link to Github](.https://github.com/dawsofd)
-![Email](mailto:d.dohlen@pm.me)
+[Link to Github](.https://github.com/dawsofd)
+[d.dohlen@pm.me](mailto:d.dohlen@pm.me)
