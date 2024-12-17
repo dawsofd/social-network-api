@@ -62,5 +62,6 @@ https://drive.google.com/file/d/19YgtX0LAlYPuh9R8UyfHncwce-h7BKho/view?usp=shari
 ## Contact Me
 Have additional questions? Click the links below to reach me through Github or Email.
 
-[Link to Github](.https://github.com/dawsofd)
-[d.dohlen@pm.me](mailto:d.dohlen@pm.me)
+[Link to Github](https://github.com/dawsofd)
+
+[Email](mailto:d.dohlen@pm.me)
